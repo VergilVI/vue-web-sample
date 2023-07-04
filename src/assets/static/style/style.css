@@ -1,0 +1,23 @@
+html {
+    font-size: 62.5%;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+body{
+  /* width: 100%; */
+  overflow-x: hidden;
+}
+
+a {
+    text-decoration: none !important;
+    color: #000;
+    outline: none;
+}
+
+a, li, input, button, textarea {
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    resize: none;
+}

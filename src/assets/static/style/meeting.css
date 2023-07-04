@@ -1,0 +1,23 @@
+@import url('../style/style.css');
+
+
+body{
+  background-color: #F9F9F9;
+  margin: 0;
+}
+.content{
+  padding: 15px;
+}
+
+
+
+
+.map_cell{
+  /* margin: 10px 0; */
+}
+
+.map_cell .van-cell__title{
+  display: flex;
+  justify-content: center;
+  margin: 5px 0;
+}
